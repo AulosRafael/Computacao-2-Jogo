@@ -1,5 +1,5 @@
 # AA Computação 2
 IM-UFFRJ
 
-Aulos Rafael
+Aulos Rafael <br />
 Samuel Igor
