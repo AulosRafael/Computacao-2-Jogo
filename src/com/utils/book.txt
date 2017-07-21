@@ -1,0 +1,656 @@
+<evento>
+	<text>
+		Flamengo x Palmeiras, Ilha do Urubu, 21:45, Horário de Brasília.
+	</text>
+
+	<escolha>
+		<text>
+			Start
+		</text>
+
+		<result>
+			O juiz apita o inicio do jogo!
+		</result>
+
+		<evento>
+			<text>
+				Flamengo toca a bola no campo de ataque.
+				Diego toca para Guerrero na cara do gol
+			</text>
+
+			<escolha>
+				<text>
+					Chutar forte
+				</text>
+
+				<result>
+					Gol do Flamengo! Guerrero!
+				</result>
+
+				<evento>
+					<text>
+						E o Flamengo continua com a posse de bola. Troca passes procurando espaços.
+
+						Marcio Araújo perde a bola na defesa... chance para o Palmeiras.
+						Dudu cruza na área para...
+					</text>
+
+					<escolha>
+						<text>
+							Borja
+						</text>
+
+						<result>
+							Borja erra feio!
+						</result>
+
+						<evento>
+							<text>
+								Palmeiras esta em um ataque ótimo!
+								A bola sobrou para William:
+							</text>
+
+							<escolha>
+								<text>
+									Chutou por cobertura
+								</text>
+
+								<result>
+									Golaço de William! Por cobertura!
+								</result>
+
+								<evento>
+									<text>
+										Jogada feita pela lateral direita do Flamengo!
+										Pará cruza na área:
+									</text>
+
+									<escolha>
+										<text>
+											Guerrero cabeceia ao gol
+										</text>
+
+										<result>
+											A cabeçada sai fraca e o goleiro do Palmeiras defende.
+										</result>
+
+										</end>
+									</escolha>
+
+									<escolha>
+										<text>
+											Guerrero tenta o voleio!
+										</text>
+
+										<result>
+											Uma pintura! Que golaço!
+										</result>
+
+										</end>
+									</escolha>
+								</evento>
+							</escolha>
+
+							<escolha>
+								<text>
+									Chutou forte
+								</text>
+
+								<result>
+									Diego Alves faz uma linda defesa e repõe a bola em jogo.
+								</result>
+
+								</end>
+							</escolha>
+						</evento>
+					</escolha>
+
+					<escolha>
+						<text>
+							William
+						</text>
+
+						<result>
+							Gol do Palmeiras! William pega de primeira e faz um lindo gol!
+						</result>
+
+						<evento>
+							<text>
+							   Último lance do jogo e escanteio a favor do Palmeiras!
+								Aonde Dudu irá cruzar a bola?
+							</text>
+
+							<escolha>
+								<text>
+									Primeira trave
+								</text>
+
+								<result>
+									William se atrapalhou com a bola, e Réver afastou o perigo!
+								</result>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Segunda trave
+								</text>
+
+								<result>
+									Gol de cabeça! Mina! Zaga do Flamengo tem uma desorganização infantil!!!
+								</result>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Tentar gol olímpico
+								</text>
+
+								<result>
+									Diego Alves estava atento e fez uma defesa segura!
+								</result>
+
+								<evento>
+									<text>
+										O jogador pede o apoio da torcida!
+										O que a torcida irá responder?
+									</text>
+
+									<escolha>
+										<text>
+											Apoia o jogador gritando seu nome!
+										</text>
+
+										<result>
+											Rafael Vaz não sabe bater falta. Isolou.
+										</result>
+
+										</end>
+									</escolha>
+
+									<escolha>
+										<text>
+											Não se manifesta
+										</text>
+
+										<result>
+											Rafael Vaz não sabe bater falta. Isolou.
+										</result>
+
+										</end>
+									</escolha>
+								</evento>
+							</escolha>
+						</evento>
+					</escolha>
+
+					<escolha>
+						<text>
+							Roger Guedes
+						</text>
+
+						<result>
+							Roger Guedes se atrapalha, e é somente tiro de meta para o Flamengo.
+						</result>
+
+						<evento>
+
+							<text>
+								Que jogo chato danado
+							</text>
+
+							<escolha>
+
+								<text>
+									Cornetar os jogadores
+								</text>
+
+								<result>
+									Você foi escoltado para fora do estádio
+								</result>
+
+								</end>
+
+							</escolha>
+
+							<escolha>
+
+								<text>
+									Ir embora
+								</text>
+
+								<result>
+									Você foi embora
+								</result>
+
+								</end>
+
+							</escolha>
+						</evento>
+					</escolha>
+				</evento>
+			</escolha>
+
+			<escolha>
+				<text>
+					Chutar colocado
+				</text>
+
+				<result>
+					Defesa de Fernando Prass!
+				</result>
+
+				<evento>
+				   <text>
+						Marcio Araújo comete um erro e o Palmeiras agora tem um contra-ataque com Roger Guédes
+						Rhodolfo aparece na marcação:
+					</text>
+
+					<escolha>
+						<text>
+							Roger Guédes troca passes
+						</text>
+
+						<result>
+							Palmeiras consegue avançar ao ataque
+						</result>
+
+						<evento>
+							<text>
+								Penalti para o Palmeiras!
+								Quem irá cobrar?
+							</text>
+
+							<escolha>
+							   <text>
+									Zé Roberto
+								</text>
+
+								<result>
+									Defesa de Diego Alves! Monstro!
+								</result>
+
+								<evento>
+									<text>
+										O jogo acabou, e o técnico Zé Ricardo foi demitido.2
+										Quem sera o novo técnico do Flamengo?
+									</text>
+
+									<escolha>
+										<text>
+											Abel Braga
+										</text>
+
+										<result>
+											O novo técnico foi bem recebido pela torcida!
+										</result>
+
+										</end>
+									</escolha>
+
+									<escolha>
+
+										<text>
+											Guardiola
+										</text>
+
+										<result>
+											O Hepta já é realidade.
+										</result>
+
+										</end>
+									</escolha>
+
+									<escolha>
+
+										<text>
+											Waldemar Lemos
+										</text>
+
+										<result>
+											A torcida começa a entoar: "AH AH AH, FORA WALDEMAR!"
+										</result>
+
+										</end>
+									</escolha>
+								</evento>
+							</escolha>
+
+							<escolha>
+								<text>
+									Dudu
+								</text>
+
+								<result>
+									Gol de Dudu! De pênalti!
+								</result>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Wiliam
+								</text>
+
+								<result>
+									Defesa de Diego Alves! Monstro!
+								</result>
+
+								</end>
+							</escolha>
+						</evento>
+					</escolha>
+
+					<escolha>
+						<text>
+							Roger Guédes tenta a finta
+						</text>
+
+						<result>
+							Rhodolfo consegue o desarme e sai jogando tranquilamente.
+						</result>
+
+						<evento>
+							<text>
+								Outra substituição no Flamengo. Cuellar será substituido
+								Quem irá entrar?
+							</text>
+
+							<escolha>
+								<text>
+									Mancuello
+								</text>
+
+								<result>
+									Substituição feita. Mancuello entra no lugar de Cuellar.
+								</result>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Berrio
+								</text>
+
+								<result>
+									Substituição feita. Berrio entra no lugar de Cuellar.
+								</result>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Vinicius Jr.
+								</text>
+
+								<result>
+									Substituição feita. Vinicius Jr. entra no lugar de Cuellar.
+								</result>
+
+								</end>
+							</escolha>
+						</evento>
+					</escolha>
+				</evento>
+			</escolha>
+
+			<escolha>
+				<text>
+					Chutar por cobertura
+				</text>
+
+				<result>
+					Errou o chute! Tiro de meta para o Palmeiras!
+				</result>
+
+				<evento>
+					<text>
+						O Flamengo agora tem um ataque a seu favor
+						A bola sobrou para Diego:
+					</text>
+
+					<escolha>
+						<text>
+							Chutou colocado
+						</text>
+
+						<result>
+							Golaço de Diego! Na gaveta!
+						</result>
+
+						<evento>
+							<text>
+								Everton Ribeiro se machucou. O Flamengo fará uma alteração
+								Quem entrará em seu lugar?
+							</text>
+
+							<escolha>
+								<text>
+									Gabriel
+								</text>
+
+								<result>
+									Substituição feita. Gabriel entra no lugar de Everton Ribeiro.
+								</result>
+
+								<evento>
+
+									<text>
+										Gabriel tenta fazer uma jogada individual. Ele...
+									</text>
+
+									<escolha>
+
+										<text>
+											Tenta um drible
+										</text>
+
+										<result>
+											Gabriel perde a bola e se enrola todo.
+										</result>
+
+									</escolha>
+
+									<escolha>
+
+										<text>
+											Tenta arrancar com a bola
+										</text>
+
+										<result>
+											Gabriel se enrola todo com a bola e perde ela.
+										</result>
+
+										<evento>
+
+											<text>
+												Contra ataque fulminante a favor do Palmeiras!
+											</text>
+
+
+											<escolha>
+
+												<text>
+													Roger Guédes carrega a bola, avança, e chuta de fora da área
+												</text>
+
+												<result>
+													Uma bomba de Roger Guédes!
+												</result>
+
+											</escolha>
+
+											<escolha>
+
+												<text>
+													Roger Guédes lança a bola em direção de William
+												</text>
+
+												<result>
+													Gol de William! Palmeiras não perdoou no contra ataque!
+												</result>
+
+											</escolha>
+
+										</evento>
+
+									</escolha>
+
+								</evento>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Matheus sávio
+								</text>
+
+								<result>
+									Substituição feita. Matheus Sávio entra no lugar de Everton Ribeiro.
+								</result>
+
+								</end>
+							</escolha>
+
+							<escolha>
+								<text>
+									Romulo
+								</text>
+
+								<result>
+									Substituição feita. Romulo entra no lugar de Everton Ribeiro.
+								</result>
+
+								</end>
+							</escolha>
+						</evento>
+					</escolha>
+
+					<escolha>
+						<text>
+							Chutou com força
+						</text>
+
+						<result>
+							Reposição de bola para o Palmeiras
+						</result>
+
+						<evento>
+							<text>
+								Falta perigosa a favor do Flamengo!
+								Quem irá bater?
+							</text>
+
+							<escolha>
+								<text>
+									Guerrero
+								</text>
+
+								<evento>
+									<text>
+										O jogador pede o apoio da torcida!
+										O que a torcida irá responder?
+									</text>
+
+									<escolha>
+										<text>
+											Apoia o jogador gritando seu nome!
+										</text>
+
+										<result>
+											Golaço! Na gaveta!!! Ele vai comemorar com a torcida!
+										</result>
+
+										</end>
+									</escolha>
+
+									<escolha>
+										<text>
+											Não se manifesta
+										</text>
+
+										<result>
+											Golaço de Guerrero! Ele comemora com seus companheiros!
+										</result>
+
+										</end>
+									</escolha>
+								</evento>
+							</escolha>
+
+							<escolha>
+								<text>
+									Diego
+								</text>
+
+								<evento>
+									<text>
+										O jogador pede o apoio da torcida!
+										O que a torcida irá responder?
+									</text>
+
+									<escolha>
+										<text>
+											Apoia o jogador gritando seu nome!
+										</text>
+
+										<result>
+											Golaço de Diego! Ele explode de emoção!
+										</result>
+
+										</end>
+									</escolha>
+
+									<escolha>
+										<text>
+											Não se manifesta
+										</text>
+
+										<result>
+											Por um triz!
+										</result>
+
+										</end>
+									</escolha>
+								</evento>
+							</escolha>
+
+							<escolha>
+								<text>
+									Rafael Vaz
+								</text>
+
+								<result>
+									Isolaaaa a bola!!!
+								</result>
+
+
+								</end>
+							</escolha>
+						</evento>
+					</escolha>
+				</evento>
+			</escolha>
+		
+		</evento>
+	</escolha>
+
+	<escolha>
+		<text>
+			Cancelar o jogo
+		</text>
+
+		<result>
+			Por motivos de força maior, o jogo não acontecerá!
+		</result>
+
+		</end>
+	</escolha>
+</evento>
